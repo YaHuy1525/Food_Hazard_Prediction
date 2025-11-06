@@ -1,0 +1,2 @@
+my_pretrained_model/*.bin filter=lfs diff=lfs merge=lfs -text
+bert_hazard_classifier/*.safetensors filter=lfs diff=lfs merge=lfs -text
